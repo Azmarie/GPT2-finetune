@@ -1,0 +1,1 @@
+perplexity = tensor(14.2759)

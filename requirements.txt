@@ -1,0 +1,8 @@
+pandas
+numpy
+torch
+sklearn
+tqdm
+pathlib
+transformers
+nltk==3.4.5
